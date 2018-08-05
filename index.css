@@ -1,0 +1,37 @@
+h1{
+  color: #00abf2;
+  font-size: 50px;
+  text-align:center;
+  font-weight: bold;
+}
+
+span{
+  color: red;
+  background-color: #F0F0F0;
+}
+
+body{
+  background-color: #A9A9A9;
+}
+
+ol{
+  background-color: #C0C0C0;
+  padding: 5px;
+  border-radius: 10px;
+  list-style: none ;
+  width:300px;
+  /*height:150px;*/
+  margin: 0 auto; 
+  box-shadow: 5px 5px 100px;
+}
+
+li{
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+div{
+  position: relative;
+  top:50px;
+  left:0px;
+}
